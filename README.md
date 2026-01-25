@@ -161,7 +161,7 @@ This repository contains the following QA artifacts:
 
 ## 11. Key Learning & Impact
 
-Through this project, the following skills and insights were developed:
+Through this project, I have developed the following skills and knowledge on:
 
 - Writing formal BRD, User stories & Acceptance criteria, Test plans and Test scenario docs. 
 - Designing structured functional test cases for a live application  
@@ -188,7 +188,7 @@ This project was conducted strictly as a personal QA practice exercise on the pu
 - No payment, authentication, or sensitive flows were tested  
 - No internal systems, APIs, or proprietary information were accessed    
 
-The contents of this repository are provided solely for **educational and portfolio demonstration purposes** and do not disclose any confidential, proprietary, or sensitive information belonging to Uber Technologies, Inc.
+The contents of this repository are provided solely for **educational, knowledge and portfolio demonstration purposes** and do not disclose any confidential, proprietary, or sensitive information belonging to Uber Technologies, Inc.
 
 This repository does not imply any affiliation with or endorsement by Uber.
 
