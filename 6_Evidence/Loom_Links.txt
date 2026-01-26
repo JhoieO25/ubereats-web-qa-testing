@@ -1,0 +1,12 @@
+Loom Evidence – UberEats QA Project
+
+Bug 001 – Add to Cart Rapid Clicks Freeze / Tab Crash
+https://www.loom.com/share/0d0746ef49874327966e5ff30f1d54de
+
+Bug 002 – No Quantity Limit for Large Item Quantities
+https://www.loom.com/share/944c5993eea242cb912278b1359e9740
+
+Notes:
+- These recordings demonstrate reproduction of selected defects.
+- All recordings were created for QA knowledge and portfolio demonstration purposes.
+
